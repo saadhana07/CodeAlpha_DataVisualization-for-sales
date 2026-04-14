@@ -5,12 +5,11 @@ This project analyzes sales and profit data to extract meaningful insights and v
 
 ---
 
-## 🎯 Objectives
-- Calculate total sales and profit
-- Identify top-selling products
-- Analyze profit by region
-- Compare sales vs profit
-- Visualize data using charts
+## 🚀 Project Highlights
+- 📊 Analyzed sales data to identify top-performing products
+- 📈 Compared sales and profit trends using visualizations
+- 🌍 Evaluated region-wise business performance
+- 🧠 Generated actionable insights for decision-making
 
 ---
 
